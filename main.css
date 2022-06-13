@@ -1,0 +1,28 @@
+.body{
+    background-color: rgb(0, 209, 94);
+}
+
+.container{
+    text-align: center;
+    margin: auto;
+    padding: 10px 550px 20px 550px;
+}
+
+.imput1{
+    padding: 10px 18px 10px 18px;
+}
+
+.imput{
+    background-color: #fff;
+}
+.text-111{
+    color: rgb(238, 255, 0);
+}
+
+.text4{
+    color: blue;
+}
+
+.text-1111{
+    color: crimson;
+}
